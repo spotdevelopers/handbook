@@ -1,7 +1,7 @@
 ---
 title: Instalación y configuración de Publitrackers
 ---
-### Materiales necesarios:
+
 
 * Laptop con sistema operativo Windows con Internet Explorer y [SADP TOOL](https://s3.amazonaws.com/publitrackers-resources/software/SADPTool_V3.0.0.16.rar) instalado.
 * Cámara IP Hikvision DS-2CD4A26FWD-IZHS/P
