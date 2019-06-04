@@ -7,7 +7,8 @@ module.exports = {
     sidebar: [
       '/',
       '/welcome',
-      '/test'
+      '/test',
+      '/instalación-y-configuración-de-publitrackers'
     ],
     nav: [
       {
