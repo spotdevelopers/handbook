@@ -1,12 +1,32 @@
 ---
-home: true
-heroImage: /images/SPOT.png
-actionText: Get Started →
-actionLink: /web
-features:
-- title: Mejora de procesos
-  details: Aprende cómo puedes adaptar fácilmente los procesos internos de nuestros equipos locales, remotos y miembros que se integrarán en el futuro.
-- title: Estandarización
-  details: Buscamos seguir una línea establecida para cada uno de los proyectos con los que trabajamos, logrando la continuidad, finalización y soporte de los mismos.
-- title: Aseguramiento de la calidad
-  details: La calidad en nuestros proyectos es fundamental para nosotros. Aseguramos esta calidad gracias al cumplimiento de lineamientos establecidos por el equipo.
+title: Brainers handbook
+
+---
+## Table of content
+
+* [Standardization](#standardization)
+* [Quality assurance](#quality-assurance)
+* [Guidelines](#guidelines)
+  * [Backend must](<>)
+  * [Frontend must](<>)
+* [Versioning control](<>)
+  * [What is GitHub](<>)
+  * [Best practices](<>)
+
+## Process improvement
+
+Learn how to easily adapt all the internal processes from our teams
+
+## Standardization
+
+We seek to follow a established line for each of our projects, achieving continuity, completion and support thereof
+
+## Quality assurance
+
+The quality of our projects is indispensable. We ensure this quality thanks to compliance with the guidelines established by the team
+
+## Guidelines
+
+* [Versioning control](https://github.com/spotdevelopers/developers-handbook/blob/master/Versioning-control.md)
+* [Frontend must](<>)
+* [Backend must](<>)
