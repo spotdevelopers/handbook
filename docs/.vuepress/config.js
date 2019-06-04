@@ -1,6 +1,5 @@
 module.exports = {
-  title: 'Netlify CMS + VuePress',
-  description: 'Netlify + VuePress',
+  title: 'Brainers handbook',
   themeConfig: {
     docsDir: 'docs',
     repo: 'spotdevelopers/handbook',
