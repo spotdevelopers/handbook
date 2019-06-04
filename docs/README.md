@@ -1,15 +1,38 @@
 ---
-home: true 
-heroImage: /images/vuejsradar.png
-actionText: Try it Out →
-actionLink: /welcome
-features:
-- title: Markdown Editing 
-  details: Netlify's CMS provides a flexible Markdown Editor 
-- title: Asset Management 
-  details: Easily upload images to your repo with an uploader 
-- title: Powerful Deployments
-  details: Leverage the power of netlify and VuePress to deploy statically 
-footer: MIT Licensed | Copyright © 2018-present Andre Liem (www.vuejsradar.com) 
-title: FRONT PAGE
+home: true
+title: Brainers handbook
 ---
+
+# Developers handbook
+
+The official handbook for developers at SPOT
+
+## Table of content
+
+* [Standardization]()
+* [Quality assurance]()
+* [Guidelines]()
+  * [Backend must]()
+  * [Frontend must]()
+* [Versioning control]()
+  * [What is GitHub]()
+  * [Best practices]()
+
+## Process improvement
+
+Learn how to easily adapt all the internal processes from our teams
+
+## Standardization
+
+We seek to follow a established line for each of our projects, achieving continuity, completion and support thereof
+
+## Quality assurance
+
+The quality of our projects is indispensable. We ensure this quality thanks to compliance with the guidelines established by the team
+
+## Guidelines
+
+* [Versioning control](https://github.com/spotdevelopers/developers-handbook/blob/master/Versioning-control.md)
+
+* [Frontend must]()
+* [Backend must]()
