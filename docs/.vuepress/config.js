@@ -6,8 +6,6 @@ module.exports = {
     repo: 'spotdevelopers/handbook',
     sidebar: [
       '/',
-      '/welcome',
-      '/test',
       '/instalación-y-configuración-de-publitrackers'
     ],
     nav: [
