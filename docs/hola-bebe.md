@@ -1,8 +1,5 @@
----
-title: Hola bebe
----
-ya que contigo no silve la labia
 
+# Hola bebe
 
-
-y te crees muy sabia
+## ya que contigo no silve la labia
+## y te crees muy sabia
