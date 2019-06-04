@@ -3,9 +3,9 @@ title: Brainers handbook
 ---
 ## Table of content
 
-* [Standardization](<>)
-* [Quality assurance](<>)
-* [Guidelines](<>)
+* [Standardization](#standardization)
+* [Quality assurance](#quality-assurance)
+* [Guidelines](#guidelines)
   * [Backend must](<>)
   * [Frontend must](<>)
 * [Versioning control](<>)
