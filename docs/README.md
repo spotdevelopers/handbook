@@ -1,22 +1,16 @@
 ---
-home: true
 title: Brainers handbook
 ---
-
-# Developers handbook
-
-The official handbook for developers at SPOT
-
 ## Table of content
 
-* [Standardization]()
-* [Quality assurance]()
-* [Guidelines]()
-  * [Backend must]()
-  * [Frontend must]()
-* [Versioning control]()
-  * [What is GitHub]()
-  * [Best practices]()
+* [Standardization](<>)
+* [Quality assurance](<>)
+* [Guidelines](<>)
+  * [Backend must](<>)
+  * [Frontend must](<>)
+* [Versioning control](<>)
+  * [What is GitHub](<>)
+  * [Best practices](<>)
 
 ## Process improvement
 
@@ -33,6 +27,5 @@ The quality of our projects is indispensable. We ensure this quality thanks to c
 ## Guidelines
 
 * [Versioning control](https://github.com/spotdevelopers/developers-handbook/blob/master/Versioning-control.md)
-
-* [Frontend must]()
-* [Backend must]()
+* [Frontend must](<>)
+* [Backend must](<>)
