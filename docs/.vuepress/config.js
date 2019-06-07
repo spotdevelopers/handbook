@@ -8,7 +8,7 @@ module.exports = {
     logo: '/images/Spot.svg',
     
     docsDir: 'docs',
-    repo: 'danieljda/handbook_Spot',
+    repo: 'spotdevelopers/handbook',
     sidebar: [
       '/python-guidelines',
       '/python',
