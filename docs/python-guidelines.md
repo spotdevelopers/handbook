@@ -8,7 +8,7 @@ title: Python guidelines
 
 ## In General
 
-### Values
+### Values EXAMPLE
 
 - "Build tools for others that you want to be built for you." - Kenneth Reitz
 - "Simplicity is alway better than functionality." - Pieter Hintjens
