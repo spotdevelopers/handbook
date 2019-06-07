@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: spotdevelopers/handbook
+  repo: danieljda/handbook_Spot
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "docs/.vuepress/public/images"
 public_folder: "docs/.vuepress/dist/"
