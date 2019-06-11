@@ -4,7 +4,7 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "vuepress":"^0.14.11"
+    "vuepress":"^1.0.1"
   },
   "dependencies": {
     "mermaid": "^8.0.0"
