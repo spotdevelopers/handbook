@@ -4,6 +4,7 @@ title: Python guidelines
 <img src='https://s3.amazonaws.com/spot-resources/spot-developers.png' width='200px' align='left'>
 <br><br><br>
 
+
 # Python guidelines
 
 ## In General
